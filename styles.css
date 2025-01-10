@@ -1,9 +1,18 @@
 /* Add your custom styles here */
 body {
-    background-color: #e4e9ee;
+    background-color: #f8f9fa;
 }
 
 .navbar {
     margin-bottom: 20px;
-    background-color: rgba(20, 190, 119, 0.834);
+}
+
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.dark-mode .navbar {
+    background-color: #333333;
+    color: #ffffff;
 }
