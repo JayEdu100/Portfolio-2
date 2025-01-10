@@ -1,0 +1,9 @@
+/* Add your custom styles here */
+body {
+    background-color: #e4e9ee;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    background-color: rgba(20, 190, 119, 0.834);
+}
